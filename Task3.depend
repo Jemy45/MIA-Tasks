@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692036650 source:c:\users\ahmed gamal\desktop\mia tasks\task3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
